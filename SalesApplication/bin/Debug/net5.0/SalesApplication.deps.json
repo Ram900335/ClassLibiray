@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SalesApplication/1.0.0": {
+        "dependencies": {
+          "Classlibray": "1.0.0"
+        },
+        "runtime": {
+          "SalesApplication.dll": {}
+        }
+      },
+      "Classlibray/1.0.0": {
+        "runtime": {
+          "Classlibray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SalesApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Classlibray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
